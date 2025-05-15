@@ -4,3 +4,6 @@ I am a third-year student in the Combined Master's and PhD Program from :school:
 <p style="text-align: center;">
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
 </p>
+
+
+<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
