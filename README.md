@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=F74411&width=435&lines=%F0%9F%91%8B+Hi%2C+I+am+Hong-Xiang+Hu%EF%BC%81" alt="typing-svg">
+<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=F74411&width=435&lines=%F0%9F%91%8B+Hi%2C+I+am+Hong-Xiang+Hu%EF%BC%81](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=5002&pause=1000&color=F78CDF&width=435&lines=Hi%EF%BC%8CI+am+Hong-Xiang+Hu.)" alt="typing-svg">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
 
